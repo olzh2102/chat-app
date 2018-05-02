@@ -12,9 +12,8 @@ export default {
 
 <style>
 body {
- background: #EFCB68;
+ background: #242331;
  font-family: 'Source Code Pro', monospace;
- color: #242331;
 }
 
 </style>

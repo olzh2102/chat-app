@@ -51,6 +51,6 @@ export default {
 }
 
 .card {
-  background: #E1EFE6
+  background: #EFCB68
 }
 </style>
