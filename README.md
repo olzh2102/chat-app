@@ -1,4 +1,4 @@
-# ninja-chat
+# OSW Chat
 
 > A Vue.js project
 
