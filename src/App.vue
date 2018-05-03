@@ -13,6 +13,7 @@ export default {
 <style>
 body{
   background: #242331;
+  font-family: 'Aldrich', sans-serif;
 }
 
 .card {
