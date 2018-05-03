@@ -1,4 +1,4 @@
-# chat-app
+# ninja-chat
 
 > A Vue.js project
 

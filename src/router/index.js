@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Welcome from '@/components/Welcome'
-import Chat from '@/components/Chat'
+import Chat from '@/components/chat'
 
 Vue.use(Router)
 
@@ -18,7 +18,7 @@ export default new Router({
       component: Chat,
       props: true,
       beforeEnter: (to, from, next) => {
-        if(to.params.name) {
+        if(to.params.name){
           next()
         } else {
           next({ name: 'Welcome' })

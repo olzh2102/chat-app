@@ -11,9 +11,11 @@ export default {
 </script>
 
 <style>
-body {
- background: #242331;
- font-family: 'Source Code Pro', monospace;
+body{
+  background: #242331;
 }
 
+.card {
+  background: #F0EDEE;
+}
 </style>

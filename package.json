@@ -1,8 +1,8 @@
 {
-  "name": "chat-app",
+  "name": "ninja-chat",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "olzhas2102 <olzhas2102@yahoo.com>",
+  "author": "iamshaunjp <shaunjp@shaun-pelling.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "firebase": "^4.13.1",
+    "firebase": "^4.12.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
